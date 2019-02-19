@@ -1,6 +1,8 @@
 Ionic Cordova SDK
 ======
 
+** Removed ionic-webview to allow use of Crosswalk **
+
 Supported platforms: iOS, Android
 
 ## Setup
